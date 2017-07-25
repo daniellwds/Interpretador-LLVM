@@ -1,5 +1,5 @@
 # Interpretador LLVM
-Interpretador que lê um codigo de entrada e executa e gera uma saida LLVM.
+Interpretador que lê um codigo de entrada, executa esse código e gera uma saida LLVM.
 
 ## Começando
 
@@ -84,7 +84,8 @@ Podemos também compilar esse arquivo e gerar um executavel, com o seguinte coma
 ```
 $ clang saida.ll -o executavel
 ```
-## Desenvolvedores
+## Autores
+### Desenvolvedores
 * Daniel Luis Welter da Silva
 * Gardel Gomes Batista Filho
 * Luis Henrique Wasem de Oliveira
