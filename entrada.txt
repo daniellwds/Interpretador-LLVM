@@ -1,0 +1,6 @@
+a = 20 ;
+b = 10 ;
+c = a * b ;
+imprimir a ;
+imprimir b ;
+imprimir c ;
